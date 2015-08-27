@@ -7,9 +7,9 @@
           <a id="twitter" href="https://twitter.com/CatBlockTeam" class="fa fa-twitter"></a>
           <a id="fb" href="https://facebook.com/CatBlockTeam" class="fa fa-facebook-official"></a>
           <a id="github" href="https://github.com/CatBlock/" class="fa fa-github"></a>
-        </div>
-      </div>
-    </div>
-  </footer>
+        </div><!-- .social -->
+      </div><!-- .row -->
+    </div><!-- .container -->
+  </footer><!-- .site-footer -->
 </body>
 </html>

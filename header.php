@@ -65,18 +65,18 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
-        </button>
+        </button><!-- .navbar-toggle -->
         <a href="/" class="navbar-brand">
           <span class="symbol">
             <img src="//blog.catblock.tk/wp-content/uploads/2015/03/logo-300x300.png">
           </span>
           <span class="logotype">CatBlock</span>
-        </a>
-      </div>
+        </a><!-- .navbar-brand -->
+      </div><!-- .navbar-header -->
       <div id="bs-example-navbar-collapse-1" class="collapse navbar-collapse">
         <ul class="nav navbar-nav navbar-right">
           <?php  ?>
         </ul>
-      </div>
-    </div>
-  </nav>
+      </div><!-- .navbar-collapse -->
+    </div><!-- .container -->
+  </nav><!-- .navbar -->
