@@ -75,7 +75,7 @@
       </div><!-- .navbar-header -->
       <div id="bs-example-navbar-collapse-1" class="collapse navbar-collapse">
         <ul class="nav navbar-nav navbar-right">
-          <?php  ?>
+          <?php wp_nav_menu(array("container"=>false, "menu_class"=>"nav navbar-nav navbar-right", )); ?>
         </ul>
       </div><!-- .navbar-collapse -->
     </div><!-- .container -->
