@@ -14,7 +14,7 @@
   <meta property="og:title" content="CatBlock">
   <meta property="og:description" content="It's AdBlock, but instead of removing ads, we will replace them with cats!">
   <meta property="og:locale" content="en_US">
-  <meta property="og:url" content="http://catblock.tk/">
+  <meta property="og:url" content="http://blog.catblock.tk/">
   <meta property="og:image" content="http://blog.catblock.tk/wp-content/uploads/2015/03/logo.png">
   <meta property="og:image:type" content="image/png">
   <meta property="og:image:width" content="2050">
