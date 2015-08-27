@@ -2,7 +2,7 @@
 <html lang="en" class="page-home">
 
 <head>
-  <?php wp_title(); ?>
+  <title><?php bloginfo('name'); ?> <?php wp_title(); ?></title>
   <link rel="icon" href="img/favicon.ico">
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
